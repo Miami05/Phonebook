@@ -14,7 +14,7 @@ A simple command-line phone book manager written in Python that allows users to 
 
 No installation required. Simply ensure you have Python 3.6+ installed.
 ```bash
-python phone_book.py
+python app.py
 ```
 ## Usage
 
